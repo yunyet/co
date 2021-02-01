@@ -1,6 +1,6 @@
 # 《高桥大好老的自述》 
 
-![二维码](/assets/qrcode.jpg)
+![二维码](https://github.com/yunyet/co/blob/main/assets/qrcode.jpg)
 
 ## 先说声抱歉
 
